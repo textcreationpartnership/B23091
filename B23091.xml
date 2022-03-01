@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of a bloody fight performed against the Earl of Newcastle and his forces before Todcaster and Selby in York-shire, in his march towards London. By the Lo: Fairfax, Sir Chr: Wray, Sir Henry Foulis, Capt: Hotham, Capt: Hatcher, Capt: Rhodes, and Capt: Anderson, with their troops. With the number of souldiers that were slain. Sent in a letter from Selby, by Sir Henry Foulis Baronet, to Mr. T. Chaloner Esquire, dwelling in Drury-lane, London. With a list of the names of all the commanders and other gentlemen of note that were taken prisoners in the late battell at Winchester.</title>
+            <author>Foulis, Henry, Sir, 1607 or 8-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23091</idno>
+            <idno type="STC">Wing F1639A</idno>
+            <idno type="EEBO-CITATION">99827064</idno>
+            <idno type="PROQUEST">99827064</idno>
+            <idno type="VID">207486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1885:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of a bloody fight performed against the Earl of Newcastle and his forces before Todcaster and Selby in York-shire, in his march towards London. By the Lo: Fairfax, Sir Chr: Wray, Sir Henry Foulis, Capt: Hotham, Capt: Hatcher, Capt: Rhodes, and Capt: Anderson, with their troops. With the number of souldiers that were slain. Sent in a letter from Selby, by Sir Henry Foulis Baronet, to Mr. T. Chaloner Esquire, dwelling in Drury-lane, London. With a list of the names of all the commanders and other gentlemen of note that were taken prisoners in the late battell at Winchester.</title>
+                  <author>Foulis, Henry, Sir, 1607 or 8-1643.</author>
+               </titleStmt>
+               <extent>7, [1]p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Frank,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decem. 21. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676 --  Early works to 1800.</term>
+               <term>Winchester (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Cicil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207486:1"/>
+            <p>An Exact and True RELATION OF A BLOODY FIGHT, Performed againſt the Earl of <hi>Newcaſtle</hi> and his Forces before <hi>Todcaſter</hi> and <hi>Selby</hi> in York<g ref="char:EOLhyphen"/>ſhire, in his march towards LONDON:</p>
+            <p>
+               <hi>BY</hi> The Lo: Fairfax, Sir Chr: Wray, Sir Henry Foulis, Capt: Hotham, Capt: Hatcher, Capt: Rhodes, and Capt: Ander<g ref="char:EOLhyphen"/>ſon, with their Troops.</p>
+            <p>With the number of Souldiers that were ſlain.</p>
+            <p>Sent in a Letter from <hi>Selby,</hi> by Sir HENRY FOULIS Baronet, to Mr. T. CHALONER Eſquire, dwelling in Drury-lane, LONDON.</p>
+            <p>With a Liſt of the Names of all the Commanders and other Gentlemen of note that were taken priſoners in the late Battell at <hi>WINCHESTER.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for JOHN FRANK. Decem. 21. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207486:2"/>
+            <pb n="3" facs="tcp:207486:2"/>
+            <head>An Exact and true Relation of a Bloody Fight, performed againſt the Earl of Newcaſtle and his Forces before Todcaſter in Yorkſhire, &amp;c.</head>
+            <opener>
+               <salute>Dear Couſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F I have not performed my promiſe in weekly writing to you, pray lay not the blame on me, but (where it is due) on the troubles of our Country, what we do here I ſhall tell you. Cleave<g ref="char:EOLhyphen"/>land is turned a Wilderneſſe, my wife and children ſole Governours, not one elſe left ei<g ref="char:EOLhyphen"/>ther through fear or malignanty: my goods at Hull, my ſelf with a Troop of horſe here; as for my Re<g ref="char:EOLhyphen"/>giment of foot, it lyes ſo under the walls of York, that it is yet impoſſible to raiſe it, beſides if I had them up, one Muſquets report would make them run away, witneſſe <hi>Cleaveland.</hi> Regiment under the Command of Sir <hi>Mathew Boynton,</hi> when he (with all the help of his friends) had at Yarum 500 of his Re<g ref="char:EOLhyphen"/>giment, the enemy giving us but one Alarum, they all ran away ſave 200, and thoſe are now run to 80. As for my part I intend to raiſe Voluntiers, for I may do either by my Commiſſion, I thanke God for it in this ſeven, weeks ſervice I have not any hurt of my Troop but one, and that was at Kanues<g ref="char:EOLhyphen"/>brough
+<pb n="4" facs="tcp:207486:3"/>as we entred the town, where we loſt ſome men and Officers, yet lay there three dayes to re<g ref="char:EOLhyphen"/>freſh our men, not being able to walke in the ſtreets without danger from the Caſtle, and all we loſt was one common ſouldier, one Serjeant, one En<g ref="char:EOLhyphen"/>gine hurt, and ſome ſix common ſouldiers, what hurt we did them, we know not. When Captaine <hi>Hotham</hi> and I (though we met firſt at Yarum, and beat up with our Troops the enemies-Quarters at Darneton) joyned together with Cleavland foot, it was at North-Allerton upon ſunday was a ſevnight; that ſame night that <hi>Ever Gallant Hotham</hi> beat up their Quarters again, ſlew 4. men, one Lieutenant, and took 7 priſoners, we loſt but one in that ſervice, who wilfully caſt himſelf away, falling into the e<g ref="char:EOLhyphen"/>nemies hands, thinking they had been his friends. On Munday the Earl of Newcaſtle paſſed the Tees with all his Army, and 14 peeces of Ordnance, and lay that night at Smeeton ſome four miles from Al<g ref="char:EOLhyphen"/>lerton; ſome ſix Alarums we had that night, and were perpetually in arms on both ſides, our Scouts giving fire on one another, and on each Quarters; we by our Scouts diſcovered their lodging, which was the foot, being leaſt regarded in the open fields, the horſe we ſuppoſe in the Towne, except thoſe that alarum'd us. We were then but 300 foot and four Troops of horſe, ſo held it wiſdom to retreat to my Lord <hi>Fairfax</hi> now (in the abſence of <hi>Eſſex</hi>) our Generall. On Tueſday at two a clock in the morning we marched from Allerton with bag and baggage, lay that night at Topcliff, the next day
+<pb n="5" facs="tcp:207486:3"/>the ſame time marched away to Knausbrough, where we received the loſſe before mentioned; and to ſa<g ref="char:EOLhyphen"/>tisfie the ſouldiers gave them free qurrter, or at leaſt they took it Believes me if ever God enable us to have a revenge, that Town and Caſtle ſhall ſuffer dearly, for they ſhot nothing but ſhawed bullets.</p>
+            <p>From thence we came to Wetherby where we lay, expecting whether my Lord of Newcaſtle would make his paſſe that way to his Majeſty, or by Todcaſter where my Lord <hi>Fairfax</hi> lay; but he bent his courſe for Todcaſter, and ſummoned all the country to be there on. Wedneſday laſt, with their carriages and draughts to convey his Ammunition and Ordnance. On Tueſday the Earl ſhewed him<g ref="char:EOLhyphen"/>ſelf before Todcaſter and retreated; then did my Lord <hi>Fairfax</hi> ſend for Captain <hi>Hotham</hi> and us from Wetherby, to be at Todcaſter before day on Wedneſday; we obeyed and marched all night with our Ordnance; when we came to Todcaſter we re<g ref="char:EOLhyphen"/>freſht your ſelves for an hour, then we had notice that the Enemy was upon the Moor ſome a mile from the Town, preſently part of the horſe which were Sir <hi>Chriſtopher Wrays</hi> Troop, Sir <hi>Thomas Fair fax's</hi> Troop and my own Troop; drew into the field neere the Moore, and remained there till towards 12 a clock, the enemy keeping themſelves on the further part of the moore among the Fenns, and a ditch between them and us; They advanced not towards us, nor we towards them, but ſtood at gaze then my Lord <hi>Fairefax</hi> commanded us on this ſide the River with the reſt of the horſe, Captaine <hi>Ho<g ref="char:EOLhyphen"/>thams</hi>
+               <pb n="6" facs="tcp:207486:4"/>Troope, Captaine <hi>Hatchers</hi> Troope, Cap<g ref="char:EOLhyphen"/>taine <hi>Rhodes</hi> Troope, Captaine <hi>Arderſons</hi> Troope to ſecure the forces. When we retired the enemy preſently fell on: the fight began about one of the clocke, and continued till after foure; you cannot immagine how hot ſervice it was, for I dare well ſay one both ſides above 40000. ſhot paſt, beſides Ordinance, which were played as occaſion ſerved. Upon us they played with 5. Culverin, we had but one. Demy Culverin which never ſhot but once, but our Drakes ſhot notably, and did good ſervice; their Ordinance did little hurt, onely killed one man, the reſt flew into our horſe Troops, but did no hurt becauſe they were ſpent before they came at us, one ſhot of 18. pound fell between Hothams Troope and mine within 3. yards of my ſelfe, and another in the reare of my troope, and juſt before Sir Chriſtopher Wray, the bullet was above 19. l. weight.</p>
+            <p>On our ſide there was ſlaine but 4.3. Common Souldiers, and one whoſe memory ſhalbe ever fa<g ref="char:EOLhyphen"/>mous, Colonell Liſter; My Lord Fairefax with the reſt of the Commanders laide him in his Grave at Todcaſter on Thurſday morning, and preſently marched away hither; for the truth is, though my Lord of Newcaſtle was before Todcaſter himſelfe in perſon with all his force; and that we beate him off, yet we were not able to keepe the Towne, be<g ref="char:EOLhyphen"/>cauſe we wanted victuall and ammunition, for I dare well ſay that in 48. hours not a Commande<g ref="char:EOLhyphen"/>r cate a bit, march leſſe a Common Souldier; ſome
+<pb n="7" facs="tcp:207486:4"/>Sacke we had, but that was not for the poore Soul<g ref="char:EOLhyphen"/>diers. What hurt we did the enemy we know not, for we found not above 30. killed, and ſome 20. taken priſoners, but when on <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>horſe went out in the night to diſcover the fields were full of lamentable groans of dying people, yet in a galantry New-Caſtle lay with his men in the fields all that night, and as we are informed ſome 500. rann from him; We are now and all our Forces at Cawood and Sel<g ref="char:EOLhyphen"/>by, as well to ſecure our ſelves, as refreſh our men, we came hither the laſt night, and if New-Caſtle advance, we ſhall fall upon him, though Sir <hi>Hugh Cholmely</hi> and Colonell <hi>Francis Boynton</hi> come not to us; both which we have not yet ſeen, though of<g ref="char:EOLhyphen"/>ten ſent to: And you may beleeve that their Regi<g ref="char:EOLhyphen"/>ments with the foure Troops of Horſe they have, would be a good recrute to our wearied Forces.</p>
+            <closer>
+               <dateline>Selby, <date>this 17. of <hi>December.</hi>
+                  </date>
+               </dateline> 
+               <signed>Your affectionate Couſin to ſerve you <hi>Henry Foullis.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:207486:5" rendition="simple:additions"/>
+            <head>The Liſt of the Names of all the Commanders, and other Gentl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men of note that were taken Priſoners in the late Battell at <hi>Wincheſter,</hi> as it was preſented to his Excellency the Earl of <hi>Eſſex</hi> at <hi>Windſor, Decem. 17.</hi> And ſent by Coronet <hi>Sterly</hi> to Sergeant Major <hi>Alexander,</hi> one of the Comman<g ref="char:EOLhyphen"/>ders under his Excellency.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>I Was in preſence when the news came to my Lord Gene<g ref="char:EOLhyphen"/>rall concerning the fight at Wincheſter; And therefore thought good to give you the ſame intelligence of it that that was delivered to him. There ſallyed out two Regiments of foote, which were of the Kings life guard upon us, which were all, or the moſt part of them cut off: Beſides the foote forces, there alſo ſallyed out a Brigade of horſe; but they al<g ref="char:EOLhyphen"/>ſo finding they were notable to withſtand us, retreated in<g ref="char:EOLhyphen"/>to the Caſtle, then we ſcaled the walls, they deſired quarter, which we gave them, onely detaining their Commanders, and Officers, whoſe names are here underwriten; And for the reſt of their forces we ſtripped and ſent them away. The Inhabitants of the Town of Wincheſter offers 2000l. to ſave themſelves from being pillaged by our Regiment.</p>
+            <p>And thus I reſt your Servant to command</p>
+            <closer>
+               <signed>
+                  <hi>John Sterly,</hi> Cornett.</signed>
+            </closer>
+            <postscript>
+               <list>
+                  <item>
+                     <hi>Col.</hi> L. <hi>Grandiſon</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Garret</hi>
+                  </item>
+                  <item>
+                     <hi>Col. Bennet</hi>
+                  </item>
+                  <item>
+                     <hi>Sir R. Willis</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Honywood</hi>
+                  </item>
+                  <item>
+                     <hi>Col. Savage</hi>
+                  </item>
+                  <item>
+                     <hi>Sir J. Smite</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Barty</hi>
+                  </item>
+                  <item>
+                     <hi>Liev. Williamſon</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Booth</hi>
+                  </item>
+                  <item>
+                     <hi>Livet. Rogers</hi>
+                  </item>
+                  <item>
+                     <hi>Maj, Hayborne</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Brangling</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Wren</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Beckonhead</hi>
+                  </item>
+                  <item>
+                     <hi>Livet. Elverton</hi>
+                  </item>
+                  <item>
+                     <hi>Co. Ruddry.</hi>
+                  </item>
+                  <item>
+                     <hi>Lievt. Rodham</hi>
+                  </item>
+                  <item>
+                     <hi>Lievt. Booth</hi>
+                  </item>
+                  <item>
+                     <hi>Cor. Gwyn</hi>
+                  </item>
+                  <item>
+                     <hi>Cor. Bradlines</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Names of the Gentlemen of that County that were ta<g ref="char:EOLhyphen"/>ken Priſoners with the Cavaliers.</head>
+                  <item>
+                     <hi>Sir J. Mills</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Tho. Philips</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Fra. Powre</hi>
+                  </item>
+                  <item>
+                     <hi>Sir H. Knowles</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Ranford</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Saunders</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Griffin</hi>
+                  </item>
+                  <item>
+                     <hi>M. Foyl</hi> and his ſon.</item>
+                  <item>
+                     <hi>M. Powlet</hi> &amp; his ſon.</item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
